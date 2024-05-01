@@ -1840,3 +1840,21 @@ ul.portfolio li.active {
     width: 50%;
     height: auto;
 }
+
+#containerAngela3 {
+    display: flex;
+}
+
+#containerAngela3 img {
+    width: 50%;
+    height: auto;
+}
+
+#containerAngela4 {
+    display: flex;
+}
+
+#containerAngela4 img {
+    width: 50%;
+    height: auto;
+}
