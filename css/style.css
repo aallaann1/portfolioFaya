@@ -1858,3 +1858,7 @@ ul.portfolio li.active {
     width: 50%;
     height: auto;
 }
+
+.indent p{
+    text-indent: 2em;
+}
