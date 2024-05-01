@@ -1822,3 +1822,21 @@ ul.portfolio li.active {
 .uipasta-credit a:hover {
 	color: #f7639a;
 }
+
+#containerAngela1 {
+    display: flex;
+}
+
+#containerAngela1 img {
+    width: 33.33%;
+    height: auto;
+}
+
+#containerAngela2 {
+    display: flex;
+}
+
+#containerAngela2 img {
+    width: 50%;
+    height: auto;
+}
